@@ -1,0 +1,3 @@
+pymodbus>=3.8,<4.0
+OpenOPC-DA==1.5.1
+pywin32>=306
